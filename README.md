@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joma Dela Cruz</h1>
+<h1 align="center">Hi 👋, I'm z</h1>
 <h3 align="center">A college student who loves to explore in field of web development.</h3>
 
 - 👀 I’m interested in ...
